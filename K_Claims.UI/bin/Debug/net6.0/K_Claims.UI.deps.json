@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "K_Claims.UI/1.0.0": {
+        "dependencies": {
+          "K_Claims.Data": "1.0.0"
+        },
+        "runtime": {
+          "K_Claims.UI.dll": {}
+        }
+      },
+      "K_Claims.Data/1.0.0": {
+        "runtime": {
+          "K_Claims.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "K_Claims.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "K_Claims.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

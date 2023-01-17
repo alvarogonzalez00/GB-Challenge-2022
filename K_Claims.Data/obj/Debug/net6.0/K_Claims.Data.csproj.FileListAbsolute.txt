@@ -1,0 +1,24 @@
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/bin/Debug/net6.0/K_Claims.Data.deps.json
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/bin/Debug/net6.0/K_Claims.Data.dll
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/bin/Debug/net6.0/K_Claims.Data.pdb
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.csproj.AssemblyReference.cache
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.AssemblyInfoInputs.cache
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.AssemblyInfo.cs
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.csproj.CoreCompileInputs.cache
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.dll
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/obj/Debug/net6.0/refint/K_Claims.Data.dll
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.pdb
+/Users/jenneferdiaz/Downloads/GDF-main/Challenge2/K_Claims.Data/obj/Debug/net6.0/ref/K_Claims.Data.dll
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/bin/Debug/net6.0/K_Claims.Data.deps.json
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/bin/Debug/net6.0/K_Claims.Data.dll
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/bin/Debug/net6.0/K_Claims.Data.pdb
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.csproj.AssemblyReference.cache
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.AssemblyInfoInputs.cache
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.AssemblyInfo.cs
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.csproj.CoreCompileInputs.cache
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.dll
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/obj/Debug/net6.0/refint/K_Claims.Data.dll
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/obj/Debug/net6.0/K_Claims.Data.pdb
+/Users/jenneferdiaz/Desktop/Academic Folder/EFA/Challenge2/K_Claims.Data/obj/Debug/net6.0/ref/K_Claims.Data.dll
